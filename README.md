@@ -1,4 +1,5 @@
 # hyperblog
 Tu blog de cabecera
 
-[![nueva](https://github.com/guillermoAlc/hyperblog/issues/1#issue-961541272 "nueva")](https://github.com/guillermoAlc/hyperblog/issues/1#issue-961541272 "nueva")
+![nueva](https://user-images.githubusercontent.com/82201666/128316085-268aa531-f2c7-45d5-80bf-fd2f1f9f959d.GIF)
+
